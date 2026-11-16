@@ -1,0 +1,7 @@
+numpy>=1.24
+pandas>=1.5
+matplotlib>=3.6
+# Recommended for GPU acceleration but not required for NumPy execution:
+# torch>=2.0
+# Optional for limiting CPU BLAS threads:
+# threadpoolctl>=3.0
